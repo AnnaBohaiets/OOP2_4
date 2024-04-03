@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Vector.cpp
+  Generating Code...
+C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_4\OOPLab2_4\main.cpp(94): warning C4172: returning address of local variable or temporary: tmp
+C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_4\OOPLab2_4\main.cpp(101): warning C4172: returning address of local variable or temporary: tmp
+  LINK : C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_4\x64\Debug\OOPLab2_4.exe not found or not built by the last incremental link; performing full link
+  OOPLab2_4.vcxproj -> C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_4\x64\Debug\OOPLab2_4.exe
